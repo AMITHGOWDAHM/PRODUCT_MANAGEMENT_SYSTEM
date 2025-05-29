@@ -3,3 +3,5 @@ product_list-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main
 Add_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210405.png
 
 update_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210512.png
+
+Delete_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210536.png
