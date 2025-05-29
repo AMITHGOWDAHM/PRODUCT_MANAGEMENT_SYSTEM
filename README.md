@@ -8,6 +8,7 @@ products in a specific category, and top-selling products.
 OUTPUT:
 
 Home_page-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20213352.png
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/productadd.jsp)
 
 Add_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210405.png
 
