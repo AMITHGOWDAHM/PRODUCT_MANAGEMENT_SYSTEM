@@ -6,8 +6,10 @@ update_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/ma
 
 Delete_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210536.png
 
-Report-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210741.png
+Price_Report-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210741.png
 
-Price_report-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210751.png
+Price_report_result-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210751.png
 
 Category_report-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210826.png
+
+Category_report_result-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210837.png
