@@ -5,7 +5,8 @@ To manage product inventory, including adding new products, updating details, de
 products, and viewing product lists. Reports include products with price above a certain amount,
 products in a specific category, and top-selling products.
 
-OUTPUT
+OUTPUT:
+
 Home_page-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20213352.png
 
 Add_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210405.png
