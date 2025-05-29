@@ -16,3 +16,5 @@ Category_report_result-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM
 
 Quantity_report-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210857.png
 
+Quantity_report_result-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210908.png
+
