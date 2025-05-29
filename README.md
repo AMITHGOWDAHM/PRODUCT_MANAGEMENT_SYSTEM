@@ -8,7 +8,6 @@ products in a specific category, and top-selling products.
 OUTPUT:
 
 Home_page-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20213352.png
-![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/productadd.jsp)
 
 Add_product-https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210405.png
 
@@ -76,3 +75,19 @@ Price DECIMAL(10,2),
 Quantity INT
 );
 ```
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20213352.png)
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210405.png)
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210207.png)
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210512.png)
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210536.png)
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210741.png)
+
+![image alt](https://github.com/AMITHGOWDAHM/PRODUCT_MANAGEMENT_SYSTEM/blob/main/Output/Screenshot%202025-05-29%20210751.png)
